@@ -14,13 +14,13 @@ All the GPT models used in this project were implemented using Hugging Face libr
 This project demonstrates how LLMs can be creatively applied to transform tabular data into meaningful medical texts and equip a GPT model with specialized knowledge in heart disease, even when working with imbalanced data.
 
 **Initial Dataset:**
-![image](https://github.com/user-attachments/assets/2c5b4042-ad77-456e-83c2-7f45bce0a223)
+![image](https://github.com/user-attachments/assets/94080208-65d8-4fa0-842f-7a17dd5d1de8)
 
 **After conversion to text:**
-![image](https://github.com/user-attachments/assets/36e9a8de-7a93-4ac1-99d3-dfc3779a19b4)
+![image](https://github.com/user-attachments/assets/4728dc42-61fa-469d-b7f0-7cd6bd46e537)
 
 **After training the model:**
-![image](https://github.com/user-attachments/assets/d348d8f1-36dc-4c66-a76f-d2404355f316)
+![image](https://github.com/user-attachments/assets/4a937cc1-8551-46fc-b97a-b6e2bb4013d2)
 
 **Keywords:**
 1. Large Language Models (LLMs)
